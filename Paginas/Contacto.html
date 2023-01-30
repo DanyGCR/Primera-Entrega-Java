@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css"  href="../Css/estilo.css">
+    <link rel ="stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Contacto</title>
+    <meta name="Formulario de Contacto" content="Contacto, Mail, Soporte">
+    <meta name="keywords"  content="HTML, ASP, JS, META, PALABRAS CLAVE, EJEMPLO">
+</head>
+<body>
+     <header><h1> Contacto </h1></header>
+     <nav>
+        <ul class="menu">
+    
+            <li><a href="../Index.html">Inicio</a></li>
+            <li><a href="./Noticias.html">Noticias</a></li>
+            <li><a href="./Selecciones.html">Selecciones</a></li>
+            <li><a href="./Contacto.html">Contacto</a></li>  
+        </ul>
+        </nav> 
+<main>
+    <form action="Formulario1"><fieldset>
+        <legend>Formulario de Contacto</legend>
+        <select name="razon" class="formulario valid">
+            <option value="Sin Razon">ELEGIR RAZON</option>
+            <option value="Error/Bug">ERROR/PROBLEMA TECNICO</option>
+            <option value="Sugerencia">SUGERENCIAS</option>
+            <option value="Marketing">MARKETING/PUBLICIDAD</option>
+            </select>
+            <div>
+                <br> 
+                <h2>
+                    <label for="name" >Nombre</label>
+                    <br>
+                    <input type="text" name="name">
+                </h2>
+                </div>
+                <div>
+                <h2>
+                    <label for="email">Mail</label>
+                    <br>
+                    <input type="email" name="email" required></h2>
+                    
+                </div>
+                <br>
+                <div>
+                <h2>
+                    <label for="Comentario">Comentario</label>
+                    <br>
+                    <textarea name="coment" class="inputcontacto2" id="coment"></textarea>
+                    <br>
+                    <input type="submit" value="Enviar" class="botonform"></h2>
+
+                    </select>
+    </fieldset></form>
+</main>
+<footer>
+    <footer class="pie-pagina">
+        <div class="grupo-1">
+            <div class="box">
+                <figure>
+                    <a href="#">
+                        <img src="../Fotos/la-eeb-2022.png" alt="LOGO">
+                    </a>
+                </figure>
+            </div>
+            <div class="box">
+                <h2>SOBRE NOSOTROS</h2>
+                <p>Pagina de apuestas deportivas</p>
+                <p>Informacion Oficial del Futbol Internacional</p>
+                <p>Todas las casa de apuestas</p>
+            </div>
+            <div class="box">
+                <h2>SIGUENOS</h2>
+                <div class="red-social">
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="grupo-2">
+            <small> &copy; 2021 <b>Fuera de Juego</b> - Todos los Derechos Reservados.</small>
+        </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,1233 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  .img3 {
+  margin: 1rem;
+    width: 862px;
+    height: 465px; 
+  }
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  h1{
+    text-align: left;
+  }
+  h2 {
+    text-align: left;
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  h1 {
+    font-family: Arabic;
+    text-align: center;
+    font-size: 30px; }
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  h2 {
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  h1 {
+    font-family: Arabic;
+    text-align: center;
+    font-size: 30px; }
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  h2 {
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  h1 {
+    font-family: Arabic;
+    text-align: center;
+    font-size: 30px; }
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  h2 {
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; }
+  
+  footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #400219;
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  .pie-pagina {
+    width: 100%;
+    background-color: #400219; }
+  
+  .pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px 0px; }
+  
+  .pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  
+  .pie-pagina .grupo-1 .box figure img {
+    width: 180px; }
+  
+  .pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px; }
+  
+  .pie-pagina .grupo-1 .box p {
+    color: #F2D5E0;
+    margin-bottom: 10px; }
+  
+  .pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #26010F;
+    margin-right: 10px;
+    background-color: #fff;
+    text-align: center;
+    transition: all 300ms ease; }
+  
+  .pie-pagina .grupo-1 .red-social a:hover {
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 {
+    background-color: #26010F;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff; }
+  
+  .pie-pagina .grupo-2 small {
+    font-size: 15px; }
+  
+  @media screen and (max-width: 800px) {
+    .pie-pagina .grupo-1 {
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 30px;
+      padding: 35px 0px; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  h1 {
+    font-family: Arabic;
+    text-align: center;
+    font-size: 30px; }
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  h2 {
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
+  @font-face {
+    font-family: Arabic;
+    src: url(../Letras/Qatar2022/Qatar2022Arabic-Heavy.ttf); }
+  
+  body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #26010F; }
+  
+  header {
+    font-family: Arabic;
+    color: #F2F2F2;
+    text-align: center; }
+  
+  h1 {
+    font-family: Arabic;
+    text-align: center;
+    font-size: 30px; }
+  
+  legend {
+    font-size: larger;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  h2 {
+    font-size: 20px;
+    color: #F2F2F2;
+    font-family: Arabic; }
+  
+  .menu {
+    background-color: #F2F2F2;
+    padding: 0;
+    margin: 20px;
+    font-family: Arabic;
+    list-style-type: none;
+    text-align: center; }
+  
+  .menu li {
+    display: inline-block;
+    text-align: center; }
+  
+  .menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: #26010F;
+    text-decoration: none;
+    display: inline-block; }
+  
+  .menu li a:hover {
+    color: #F2F2F2;
+    background-color: #26010F;
+    border-radius: 50%; }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; }
+  
+  .imagen {
+    text-align: center; }
+  
+  body {
+    background-color: #26010F;
+    font-family: Arabic; }
+  
+  h1 {
+    color: #F2F2F2;
+    height: 50px;
+    text-align: center;
+    padding: 10px; }
+  
+  div {
+    margin: 10px; }
+  
+  img {
+    width: 250px;
+    border: double 2px grey;
+    opacity: 100; }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly; }
+  
+  img:hover {
+    opacity: 1;
+    border: solid 2px #F2F2F2; }
+  
+  h1 {
+    font-family: Arabic;
+    font-size: 2.5rem;
+    text-align: center; }
+  
+  .contenedor {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 400px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: repeat(3, 100px);
+    gap: 20px;
+    align-items: stretch; }
+  
+  .hijo {
+    background-color: #26010F;
+    border: 2px solid red; }
+  
+  @media (max-width: 500px) {
+    .contenedor {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu {
+      grid-template-columns: 1fr; } }
+  
+  @media (max-width: 500px) {
+    .menu li a {
+      grid-template-columns: 1fr; } }
+  
